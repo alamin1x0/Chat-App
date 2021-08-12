@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063983544465",
+    "project_id": "goponchartapp",
+    "storage_bucket": "goponchartapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063983544465:android:04a5f34ddbd3ec0026a730",
+        "android_client_info": {
+          "package_name": "com.developeralamin.goponchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063983544465-unbp0jotme3tqfn28kpd0o99nko90i8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developeralamin.goponchart",
+            "certificate_hash": "20c476d2a8c6b098e6599eeabdd08f651fa57e98"
+          }
+        },
+        {
+          "client_id": "1063983544465-8tibcmlcan2hh8gmr6o48apq1ojf1eoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fOWH41-kCJj7F3W_A0nX9YEVfzsq5Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063983544465-8tibcmlcan2hh8gmr6o48apq1ojf1eoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
